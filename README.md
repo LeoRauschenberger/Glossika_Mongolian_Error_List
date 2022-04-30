@@ -1,4 +1,4 @@
-# Glossika_Mongolian_Error_List
+# Glossika Mongolian Language Error List
 Errors found in Glossikas Mongolian course
 
 This folder contains an openly accessible list compiling the errors in Glossika's Mongolian course. 
