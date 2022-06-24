@@ -8,4 +8,6 @@ I know how frustrating and makes learning harder as the errors are frequent enou
 
 List will be updated weekly.
 
+A further issue I have noticed is that Glossika does not follow the standart for transliterating Molgolian to the letter (https://estandard.gov.mn/standard/reader/4635). Х is falsely transliterated as X which is not really a transliteration.
+
 I now completed Level A1 Low so the entire list is avialable. If you found additional errors, reach out to me.
