@@ -1,5 +1,5 @@
 # Glossika Mongolian Language Error List
-Errors found in Glossikas Mongolian course
+Errors found in Glossika's Mongolian course (https://ai.glossika.com)
 
 This folder contains an openly accessible list compiling the errors in Glossika's Mongolian course. 
 I feel obligated to take this step as Glossika will simply remove sentences that are being reported with NO feedback or fix visible to the user.
