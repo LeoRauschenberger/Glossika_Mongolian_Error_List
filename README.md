@@ -6,7 +6,7 @@ I feel obligated to take this step as Glossika will simply remove sentences that
 
 I know how frustrating and makes learning harder as the errors are frequent enough for me to be on constant alert while learning. 
 
-List will be updated weekly.
+List will be updated frequently.
 
 A further issue I have noticed is that Glossika does not follow the standart for transliterating Molgolian to the letter (https://estandard.gov.mn/standard/reader/4635). Х is falsely transliterated as X which is not really a transliteration.
 
